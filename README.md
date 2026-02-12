@@ -6,9 +6,9 @@ Projeto desenvolvido durante o Bootcamp Riachuelo – Cibersegurança (DIO), uti
 
 ## 🧠 Sobre o Projeto
 
-Este repositório reúne materiais de estudo sobre Educação Financeira organizados em arquivos Markdown (.md).
+Este repositório reúne estudos e materiais organizados sobre **Educação Financeira**, incluindo conceitos essenciais de finanças pessoais, planejamento financeiro e organização de recursos.  
 
-O conteúdo foi estruturado com apoio de IA para facilitar o aprendizado, organização das ideias e aprofundamento dos conceitos.
+O conteúdo está estruturado em arquivos Markdown para facilitar a leitura e revisão, tornando o projeto uma referência prática para aprendizado e consulta.  
 
 ---
 
@@ -31,3 +31,4 @@ ou
 
 ```bash
 git clone https://github.com/linregina22/educacao-financeira-notebookLM.git
+
