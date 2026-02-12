@@ -30,6 +30,18 @@ Desafio proposto no módulo de IA: criar um **caderno temático no NotebookLM** 
 
 ---
 
+## 📚 Fontes Utilizadas
+
+As seguintes fontes em vídeo foram utilizadas como base para criação do caderno no NotebookLM:
+
+1. **[Educação Financeira - Conceitos Fundamentais](https://youtu.be/Q6x0xnI0uCg)**
+2. **[Planejamento Financeiro Pessoal](https://youtu.be/dunfejH4Q9o)**
+3. **[Investimentos para Iniciantes](https://youtu.be/in0XbfQEm2A)**
+4. **[Como Sair das Dívidas](https://youtu.be/ah4s1gU8Zrc)**
+5. **[Construindo Patrimônio](https://youtu.be/jbPPwlvFEH4)**
+
+---
+
 ## 🚀 Como visualizar o projeto
 
 Você pode:
