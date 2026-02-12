@@ -239,24 +239,11 @@ Destinar **100% dos R$ 500** para alta liquidez:
 
 ---
 
-## 📊 Resumo das Aprendizagens
-
-### O que funcionou melhor nos prompts:
-- ✅ Contextos específicos (valores, perfis, prazos)
-- ✅ Solicitação de exemplos práticos vs teoria
-- ✅ Pedidos de comparação estruturada (tabelas)
-- ✅ Cenários realistas com números concretos
-
-### Insights sobre uso da IA:
-- Prompts mais detalhados geram respostas mais aplicáveis
-- Tabelas facilitam comparação e tomada de decisão
-- Exemplos numéricos tornam conceitos abstratos tangíveis
-- NotebookLM referencia as fontes automaticamente
-
-### Próximos passos:
+## Próximos passos:
 - Testar prompts para simulações financeiras
 - Explorar análise de casos reais de investimento
 - Criar roteiro de perguntas para revisão periódica
 
 ---
+
 
