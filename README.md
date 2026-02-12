@@ -42,6 +42,18 @@ As seguintes fontes em vídeo foram utilizadas como base para criação do cader
 
 ---
 
+## 💭 Reflexão sobre o Uso da IA
+
+Este projeto demonstrou como o NotebookLM pode transformar o aprendizado ao:
+- Sintetizar conceitos complexos de forma acessível
+- Gerar exemplos práticos personalizados
+- Criar material estruturado para revisão
+- Facilitar a compreensão através de comparações visuais (tabelas)
+
+A principal lição: IA é uma **ferramenta de aprendizado ativo**, não passivo. 
+O valor está em fazer as perguntas certas e refletir criticamente sobre as respostas.
+
+---
 ## 🚀 Como visualizar o projeto
 
 Você pode:
@@ -54,3 +66,4 @@ git clone https://github.com/linregina22/educacao-financeira-notebookLM.git
 ```
 
 ---
+
