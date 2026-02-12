@@ -20,7 +20,29 @@
 - **Ciclo da Prosperidade:** Ao investir em ativos, os dividendos gerados podem ser reinvestidos, aumentando seu patrimônio exponencialmente ao longo do tempo.
 
 ## Cuidados e Prática nos Investimentos
-- **A regra de ouro é nunca investir no que você não entende.**
-- **Pré-requisitos:** Antes de buscar rentabilidade, você deve quitar dívidas caras e montar uma **reserva de emergência** (6 meses do seu custo de vida) em ativos de baixo risco e alta liquidez.
-- **Segurança:** Prefira opções de Renda Fixa (como CDBs e Tesouro Selic) que possuam proteção do Fundo Garantidor de Créditos (FGC).
-- **Diversificação:** Não coloque todo o seu dinheiro em um único lugar para evitar perdas totais em caso de problemas com uma instituição ou ativo específico.
+
+* A regra de ouro é nunca investir no que você não entende.
+* Pré-requisitos: Antes de buscar rentabilidade, você deve quitar dívidas caras e montar uma reserva de emergência (6 meses do seu custo de vida) em ativos de baixo risco e alta liquidez.
+* Segurança: Prefira opções de Renda Fixa (como CDBs e Tesouro Selic) que possuam proteção do Fundo Garantidor de Créditos (FGC).
+* Diversificação: Não coloque todo o seu dinheiro em um único lugar para evitar perdas totais em caso de problemas com uma instituição ou ativo específico.
+
+---
+
+## Tipos de Investimentos
+
+### Renda Fixa
+- **Características:** Previsibilidade, baixo risco, protegida pelo FGC
+- **Exemplos:** CDB, Tesouro Direto, LCI/LCA
+- **Indicado para:** Reserva de emergência e perfil conservador
+
+### Renda Variável
+- **Características:** Rentabilidade potencialmente alta, maior risco, sem garantias
+- **Exemplos:** Ações, Fundos Imobiliários (FIIs), Criptomoedas
+- **Indicado para:** Longo prazo (5-10 anos) e perfil arrojado
+
+---
+
+## Conclusão
+
+A educação financeira não é sobre ganhar muito dinheiro, mas sobre **controlar o dinheiro que você já tem**. Pequenas mudanças de hábito, como cortar gastos desnecessários, pagar-se primeiro e investir com disciplina, podem transformar completamente sua relação com o dinheiro ao longo do tempo, criando um **ciclo de prosperidade** através dos juros compostos.
+
